@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Mine
+initial
+fole
+replace-dev.c
+replace
